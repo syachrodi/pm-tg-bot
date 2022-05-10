@@ -1,6 +1,9 @@
 {
   "dependencies": {
+    "dotenv": "^16.0.0",
     "python": "^0.0.4",
-    "selenium": "^2.20.0"
+    "python3": "^0.0.1",
+    "selenium": "^2.20.0",
+    "webdriver": "^7.19.7"
   }
 }
